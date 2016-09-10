@@ -1,0 +1,37 @@
+body {
+    background-color: #EDEDED;
+}
+
+.card {
+    margin-top: 5%;
+}
+
+.card-image {
+    height: 180px;
+}
+.icon_style{
+    margin-left: 20px;
+}
+.intro
+{
+    margin: 0 auto ;
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 13%;
+
+}
+
+.intro h1
+{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+
+.intro h5
+{
+    letter-spacing: 0.025em;
+    color:#F5F5F5;
+    font-weight: 900;
+    text-transform: uppercase;
+}
